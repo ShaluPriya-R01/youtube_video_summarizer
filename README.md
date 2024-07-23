@@ -2,17 +2,12 @@
 
 Welcome to the YouTube Video Summarizer app! This application allows you to extract transcripts from YouTube videos and generate concise summaries using Google Gemini's language model.
 
-![YouTube Video Summarizer](http://img.youtube.com/vi/some_video_id/0.jpg)
-
 ## Features
 
 - **Transcript Extraction:** Retrieve transcripts from YouTube videos using the YouTube Transcript API.
 - **Summary Generation:** Use Google Gemini's Generative AI model to generate concise summaries of YouTube video content.
 - **User-Friendly Interface:** An intuitive Streamlit-based web interface for easy interaction.
 
-## Demo
-
-![Demo Screenshot](demo_screenshot.png) <!-- Replace with an actual screenshot if available -->
 
 ## Installation
 
